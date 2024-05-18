@@ -1,2 +1,3 @@
 - To see sql solution/answer. Go on `solution sql.sql`
 - The problom solving solution/answer it on `Problem Solving` folder
+- - To run answer/solution `node ProblemSolving-3.js` `node ProblemSolving-2.js` `node ProblemSolving-1.js`
